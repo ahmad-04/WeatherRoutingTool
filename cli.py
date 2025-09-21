@@ -1,6 +1,6 @@
 import argparse
 import warnings
-from pathlib import Path
+from pathlib import Path 
 import sys
 
 from WeatherRoutingTool.execute_routing import execute_routing
